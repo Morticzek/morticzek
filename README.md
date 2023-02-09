@@ -1,4 +1,4 @@
-### Hello! 😄
+<h1 align=center>Welcome to my profile!</h1>
 
 ### 🛠 Tech I've worked with:
 ![C](https://img.shields.io/badge/-C-3747A6?style=flat&logo=c&logoColor=white)
@@ -20,7 +20,8 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)
-
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=morticzek&label=Profile%20views&color=3A3A3A&style=flat" alt="morticzek" /> </p>
 <!--
 **Morticzek/morticzek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
