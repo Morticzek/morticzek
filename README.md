@@ -8,6 +8,7 @@
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=#F1C7C5)
 ![Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-D30001?style=flat&logo=ruby-on-rails)
+![CapacitorJS](https://img.shields.io/badge/-Capacitor%20JS-EDEDED?style=flat&logo=capacitor)
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2266FF?style=flat&logo=javascript)
