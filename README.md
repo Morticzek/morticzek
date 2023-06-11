@@ -22,7 +22,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=morticzek&label=Profile%20views&color=3A3A3A&style=flat" alt="morticzek" /> </p>
 
 [![Morticzek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morticzek)](https://github.com/anuraghazra/github-readme-stats)
 <!--
