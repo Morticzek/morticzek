@@ -1,26 +1,24 @@
 <h1 align=center>Welcome to my profile!</h1>
 
-### 🛠 Tech I've worked with:
-![C](https://img.shields.io/badge/-C-3747A6?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-005495?style=flat&logo=c%2B%2B&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-3F688D?style=flat&logo=cmake&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
+### 🛠 Current tech stack:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=#F1C7C5)
-![Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-D30001?style=flat&logo=ruby-on-rails)
-![CapacitorJS](https://img.shields.io/badge/-Capacitor%20JS-EDEDED?style=flat&logo=capacitor)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenix-framework&logoColor=white)
+![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-2266FF?style=flat&logo=javascript)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-36B7F0?style=flat&logo=tailwind-css&logoColor=white)
-
-![Vue.js](https://img.shields.io/badge/-Vue%20JS-1A1A1A?style=flat&logo=vuedotjs&logoColor=#4FC08D)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt%20JS-001E25?style=flat&logo=nuxtdotjs&logoColor=#00DC82)
-![Jest](https://img.shields.io/badge/-Jest-BC3A13?style=flat&logo=jest&logoColor=white)
-
-![Docker](https://img.shields.io/badge/-Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Framework](https://img.shields.io/badge/Framework-141414?style=for-the-badge&logo=framework&logoColor=white)
 <br>
 
 [![Morticzek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morticzek)](https://github.com/anuraghazra/github-readme-stats)
